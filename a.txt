@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 vaue=100
+=======
+>>>>>>> c293bbf96c33f2488547fc3e72defe70a9d1a18a
 value=9000
